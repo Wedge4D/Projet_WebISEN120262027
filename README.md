@@ -3,24 +3,24 @@ Projet de web ISEN1 2026/2027
 
 Projet : Street food de differents pays du monde !
 
--Europe
+-Europe :
 Italie
 Grece
 
--Asie
+-Asie : 
 Japon
 Inde
 Viet nam
 
--Afrique
+-Afrique :
 Maroc
 Senegal
 
 
--Amerique du sud
+-Amerique du sud :
 Brésil
 Colombie
 
--Oceanie
+-Oceanie :
 Australie
 Nouvelle zelande
